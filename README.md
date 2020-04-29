@@ -6,17 +6,17 @@ Duration: Two weeks, three days per each week, 1 hour per day
 
 ## Week 1
 
-Learning docker
+Learning Docker
 
 ### Day 1
 
-Inception with docker basics
+Inception with Docker basics
 
 - Container execution and deatached execution
 - Images
   - Layers
-  - tags
-  - docker public registry
+  - Tags
+  - Docker public registry
 - Builds
   - Dockerfile
   - Build, commit, push
@@ -63,7 +63,7 @@ External resources:
 
 ## Week 2
 
-Using docker
+Using Docker
 
 ### Day 4
 
@@ -79,18 +79,21 @@ Choose one of the following options
 
 - Docker in Docker
   - Ubuntu DIND
-  - Official Docker in docker (official)
+  - Official Docker in Docker
 - Quality pieces with Docker
-  - Jenkins in docker
+  - Jenkins in Docker
   - Sonar with real live project
+  - Zalenium: Selenium Grid with steroids in Docker
+- Windows in Docker
 
 Reference repositories:
 
 - Jerôme Petazzoni - [Using Docker in Docker](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)
 - Red Panda CI's GitHub
   - [Ubuntu DIND](https://github.com/red-panda-ci/ubuntu-dind)
-  - [Jenkins DIND](https://github.com/red-panda-ci/jenkins-dind)
-  - [Jenkins Pipeline Library](https://github.com/red-panda-ci/jenkins-pipeline-library)
+- Ayuda Digital
+  - [Jenkins DIND](https://github.com/ayudadigital/jenkins-dind)
+  - [Jenkins Pipeline Library](https://github.com/ayudadigital/jenkins-pipeline-library)
 - Informática Parmadux's GitHub - [Odoo](https://github.com/informaticaph/PXGO_00064_2014_PHA)
 - Docker - [Docker in Docker](https://hub.docker.com/_/docker)
 - Zalando IT's GitHub - [Zalenium](https://github.com/zalando/zalenium)
@@ -98,7 +101,7 @@ Reference repositories:
 
 #### Dockerize an application
 
-Put docker on the [Spring Boot Angular4 Heroes](https://github.com/gaoxinwen/spring-boot-angular4-heroes) sample application.
+Put Docker on the [Spring Boot Angular4 Heroes](https://github.com/gaoxinwen/spring-boot-angular4-heroes) sample application.
 
 Stages:
 
@@ -114,11 +117,13 @@ Tips:
 
 Top goal:
 
-- Try to split the application in two docker services: backend and frontend.
+- Try to split the application in two Docker services: backend and frontend.
 
 ### Day 6
 
-BDD with Docker
+Choose one of the following options
+
+#### BDD with Docker
 
 Use the project [Duing](https://github.com/ayudadigital/docker-ubuntu-xrdp-mate-custom/tree/master/duing) to dessign and execute a BDD test
 
@@ -129,14 +134,21 @@ Reference repositories:
 - Ayuda Digital's GitHub - [Docker Ubuntu INstant Gherkin](https://github.com/ayudadigital/docker-ubuntu-xrdp-mate-custom/tree/master/duing)
 - Sergio Ortega Gomez's GitHub - [Docker Ubuntu 18.10 Mate Desktop](https://github.com/sergioortegagomez/docker-ubuntu-cucumber)
 
+#### Kubernetes Inception
+
+Take a look at Kubernetes using local minikube and this [Docker Compose Example](https://github.com/aperaltacalvo/docker-compose-example) project.
+
+Thanks to [Álvaro](https://github.com/aperaltacalvo) for this work.
+
 ## Further reading
 
 - [General Concepts](https://github.com/ayudadigital/general-concepts/blob/master/es/toc.md) about Software Development (Spanish)
 - [Play with Docker](https://training.play-with-docker.com)
+- Learning Docker with [Katacoda](https://www.katacoda.com/courses/docker) courses
 
 ## Stuff Intallation
 
-You can download the whole docker images and clone the whole referenced repositories with a script within the project.
+You can download the whole Docker images and clone the whole referenced repositories with a script within the project.
 
 Execute the command:
 

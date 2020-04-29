@@ -1,5 +1,29 @@
 # Changelog
 
+## v2.1.0 (2020-04-29)
+
+### Changes
+
+#### New
+
+* Add katacoda references and a choice for kubernetes in the last day ([f2ace7f](https://github.com/ayudadigital/docker-learning/commit/f2ace7f))
+
+#### Update
+
+* Doc review ([559ab3c](https://github.com/ayudadigital/docker-learning/commit/559ab3c))
+
+#### Build
+
+* Update Auto Release Log adding v2.1.0 info with JPL ([66648c3](https://github.com/ayudadigital/docker-learning/commit/66648c3))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([72e8172](https://github.com/ayudadigital/docker-learning/commit/72e8172))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
