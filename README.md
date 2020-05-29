@@ -4,6 +4,8 @@ Docker Learning Course
 
 Duration: Two weeks, three days per each week, 1 hour per day
 
+These sessions were broadcast on YouTube during the last days of April 2020. There is a [playlist](https://www.youtube.com/playlist?list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2) with the recordings of the sessions.
+
 ## Week 1
 
 Learning Docker
@@ -30,6 +32,8 @@ Reference repositories:
 - CMD vs ENTRYPOING in [Stackoverflow](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 - Brian DeHamer - Dockerfile [ADD vs COPY](https://www.ctl.io/developers/blog/post/dockerfile-add-vs-copy/)
 
+Recorded session: <https://www.youtube.com/watch?v=I2f5CElMQo4&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=2&t=0s>
+
 ### Day 2
 
 Docker Elements
@@ -43,6 +47,8 @@ Refertence repositories:
 
 - Red Panda CI's GitHub - [Jenkins Workshop](https://github.com/red-panda-ci/jenkins-workshop)
 - Moncho's Github - [DRY](https://github.com/moncho/dry) (container management CLI)
+
+Recorded session: <https://www.youtube.com/watch?v=CgbJmlMJvbI&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=2>
 
 ### Day 3
 
@@ -61,6 +67,8 @@ External resources:
 
 - Dockerfile linter resource - [FROM:latest](https://www.fromlatest.io)
 
+Recorded session: <https://www.youtube.com/watch?v=SSZAqBlkl5s&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=3>
+
 ## Week 2
 
 Using Docker
@@ -70,6 +78,8 @@ Using Docker
 Docker compose in real projects
 
 Reference repositories: none that we can share :)
+
+Recorded session: <https://www.youtube.com/watch?v=SV8AIqcR3XE&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=4>
 
 ### Day 5
 
@@ -119,6 +129,8 @@ Top goal:
 
 - Try to split the application in two Docker services: backend and frontend.
 
+Recorded session: <https://www.youtube.com/watch?v=Rv_GHyt6scY&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=5>
+
 ### Day 6
 
 Choose one of the following options
@@ -139,6 +151,8 @@ Reference repositories:
 Take a look at Kubernetes using local minikube and this [Docker Compose Example](https://github.com/aperaltacalvo/docker-compose-example) project.
 
 Thanks to [Álvaro](https://github.com/aperaltacalvo) for this work.
+
+Recorded session: <https://www.youtube.com/watch?v=-G8KQRNxvWQ&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=6>
 
 ## Further reading
 
