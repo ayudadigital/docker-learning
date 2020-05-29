@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.1.1 (2020-05-29)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.1.1 info with JPL ([c5fb6b3](https://github.com/ayudadigital/docker-learning/commit/c5fb6b3))
+
+#### Docs
+
+* Add references to YouTube videos ([d0c091c](https://github.com/ayudadigital/docker-learning/commit/d0c091c))
+* Generate v2.1.0 changelog with JPL ([66be56d](https://github.com/ayudadigital/docker-learning/commit/66be56d))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.1.0 (2020-04-29)
 
 ### Changes
