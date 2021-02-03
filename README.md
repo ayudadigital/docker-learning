@@ -29,7 +29,7 @@ Inception with Docker basics
 Reference repositories:
 
 - Daniele Siddi's GitHub - [Curso de introducción a Docker](https://github.com/danielesiddi/docker-course)
-- CMD vs ENTRYPOING in [Stackoverflow](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
+- CMD vs ENTRYPOINT in [Stackoverflow](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 - Brian DeHamer - Dockerfile [ADD vs COPY](https://www.ctl.io/developers/blog/post/dockerfile-add-vs-copy/)
 
 Recorded session: <https://www.youtube.com/watch?v=I2f5CElMQo4&list=PLsp2U1HPiXXVurbxaYF_2qAqydFgp6Pq2&index=2&t=0s>
