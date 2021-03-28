@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.1.2 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.1.2 info with JPL ([74eaf39](https://github.com/ayudadigital/docker-learning/commit/74eaf39))
+* Use jpl v6.2.0 ([5ede74e](https://github.com/ayudadigital/docker-learning/commit/5ede74e))
+
+#### Docs
+
+* Generate v2.1.1 changelog with JPL ([c6e4e7e](https://github.com/ayudadigital/docker-learning/commit/c6e4e7e))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.1.1 (2020-05-29)
 
 ### Changes
